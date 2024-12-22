@@ -24,8 +24,8 @@ echo "Installation successful"
 clear
 
 echo "Install the necessary files"
-wget https://raw.githubusercontent.com/Solokingz/VpsBotmaked/refs/heads/main/Dockerfile
-wget https://raw.githubusercontent.com/Solokingz/VpsBotmaked/refs/heads/main/bot.py
+wget https://raw.githubusercontent.com/Solokingz/vpsbotmakedbyme-files/refs/heads/main/Dockerfile
+wget https://raw.githubusercontent.com/Solokingz/vpsbotmakedbyme-files/refs/heads/main/bot.py
 echo "Installation successful"
 
 clear
